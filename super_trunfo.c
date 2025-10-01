@@ -104,7 +104,7 @@ int main (){
     printf("PIB: %.2f\n", pib1);
     printf("Número de pontos turísticos: %d\n", ponto_turistico2);
 
-    printf("Novo commint\n");
+    printf("Novo commit\n");
 
 
     //Fim do programa
