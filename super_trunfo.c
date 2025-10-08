@@ -30,6 +30,9 @@ int main() {
     float densidade_populacional2;
     float pib_per_capita2;
 
+    // Apresentação do programa Desafio Super Trunfo c (Aventureiro);
+    printf("--- Desafio Super Trunfo c (Aventureiro) ---\n");
+
     // --- Leitura dos Dados para a Carta 1 ---
     printf("--- Leitura dos Dados da Carta 1 ---\n");
 
