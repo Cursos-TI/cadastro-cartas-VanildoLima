@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main() {
+    printf("Novo commit\n");
 
     //Desafio Super Trunfo c (Aventureiro);
 
