@@ -1,6 +1,9 @@
 #include <stdio.h>
 
 int main() {
+
+    //Desafio Super Trunfo c (Aventureiro);
+
     // Dados das variáveis para a Carta 1
     char estado1[4];
     char codigo1[30];
