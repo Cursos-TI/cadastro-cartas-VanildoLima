@@ -137,6 +137,7 @@ int main() {
     printf("Super Poder: Carta 1 venceu (%d)\n", super_poder1 > super_poder2);
 
     printf("==========================================\n");
+    printf("Novo commit\n");
 
     return 0;
 }
